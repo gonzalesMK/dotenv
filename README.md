@@ -20,6 +20,11 @@ Feel free to fork this repository and adapt it to your own needs.
 
 This is my first time setting up this repo, so I never really tried the instructions above. If you run into any trouble, just let me know.
 
+## Shortcuts 
+
+Take a look at each file inside the folder `after/pluging/` and at `remap.lua`
+
+
 ## Themes 
 
 https://github.com/rose-pine/neovim
