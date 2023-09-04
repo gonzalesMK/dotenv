@@ -1,4 +1,4 @@
-# Neovim configuration for Python, Rust and General Use
+# Neovim configuration for Python, Rust, and General Use
 
 
 It all started with this video: [0 to LSP : Neovim RC From Scratch](https://www.youtube.com/watch?v=w7i4amO_zaE&t=1175s)
