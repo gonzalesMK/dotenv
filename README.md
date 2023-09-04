@@ -4,18 +4,18 @@
 It all started with this video: [0 to LSP : Neovim RC From Scratch](https://www.youtube.com/watch?v=w7i4amO_zaE&t=1175s)
 
 
-This is my personal LUA based configuration for Neovim that I use on a daily basis as Python, Rust and other language - (not Java, for that I use Intellig). 
-This setup is the product of continuous enhancements based in what I have found in configurations shared by other users.
-It is an ongoing project that may evolve with time as I come accross with new plugins, refine mappings or refactor configuration files.
+This is my personal LUA-based configuration for Neovim that I use on a daily basis as Python, Rust, and other languages - (not Java, for that I use IntelliJ). 
+This setup is the product of continuous enhancements based on what I have found in configurations shared by other users.
+It is an ongoing project that may evolve with time as I come across new plugins, refine mappings, or refactor configuration files.
 Feel free to fork this repository and adapt it to your own needs.
 
-## How to get started ? 
+## How to get started? 
 
 0. Install latest [NeoVIM version](https://github.com/neovim/neovim/wiki/Installing-Neovim). 
 1. Clone this repository into `~/.config/nvim`:
 2. Install [ripgrep](https://github.com/BurntSushi/ripgrep) into your OS. It is required by some [Telescope](https://github.com/nvim-telescope/telescope.nvim) plugin searching modes.
 3. Open neovim, then close it, then open it again (packer should be installed)
-4. Waka is going to ask you for your api key... if you don't use it, delete the line on `packer.lua`
+4. Waka is going to ask you for your API key... if you don't use it, delete the line on `packer.lua`
 5. Run :Mason to select the linters/lsp/dap to use
 
 This is my first time setting up this repo, so I never really tried the instructions above. If you run into any trouble, just let me know.
@@ -54,7 +54,7 @@ https://github.com/rose-pine/neovim
 
 
 ## TODO
-Below plugins seems nice, but I still didn't try they
+Below plugins seem nice, but I still haven't try they
 
 * [Aerial](https://github.com/stevearc/aerial.nvim)
     > Code outline window for skimming and quick navigation
