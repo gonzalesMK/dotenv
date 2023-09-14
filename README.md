@@ -11,7 +11,7 @@ Feel free to fork this repository and adapt it to your own needs.
 
 ## How to get started? 
 
-0. Install latest [NeoVIM version](https://github.com/neovim/neovim/wiki/Installing-Neovim). 
+0. Install latest [NeoVIM version](https://github.com/neovim/neovim/wiki/Installing-Neovim) or [Ubuntu](#install-latest-neovim-on-ubuntu)
 1. Clone this repository into `~/.config/nvim`:
 2. Install [ripgrep](https://github.com/BurntSushi/ripgrep) into your OS. It is required by some [Telescope](https://github.com/nvim-telescope/telescope.nvim) plugin searching modes.
 3. Open neovim, then close it, then open it again (packer should be installed)
@@ -57,6 +57,14 @@ https://github.com/rose-pine/neovim
 * [Zen Mode](https://github.com/folke/zen-mode.nvim)
     > Make it feel like you are really focusing on something
 
+# Install latest Neovim on Ubuntu 
+
+```bash
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:neovim-ppa/unstable
+sudo apt-get update
+sudo apt-get install neovim
+```
 
 ## TODO
 Below plugins seem nice, but I still haven't try they
