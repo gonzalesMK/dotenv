@@ -5,4 +5,3 @@
 .venv/lib64
 .venv
 pack/github/start/copilot.vim
-plugin
